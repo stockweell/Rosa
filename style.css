@@ -568,14 +568,14 @@ body {
 }
 .console-container {
   font-family: Khula;
-  font-size: 3em;
+  font-size: 2em;
   text-align: center;
   height: 100%;
   width: 100%;
   display: block;
   position: absolute;
   color: white;
-  bottom: -70%;
+  bottom: -75%;
   margin-bottom: 0px;
 }
 .console-underscore {
