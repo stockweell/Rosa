@@ -1,5 +1,5 @@
 // function([string1, string2],target id,[color1,color2])    
-consoleText(['Que tengas linda\ noche Mely', 'Descansa mucho', 'Vamos el Domingo\ a ver el primer atardecer de enero,\ qué dices?'], 'text',['tomato','aquamarine','lightblue']);
+consoleText(['Que tengas linda noche Mely\ descansa mucho', 'O lindo día!\ no sé a que hora termine esto jaja', 'Vamos el Domingo\ a ver el primer atardecer de enero,\ qué dices?'], 'text',['tomato','aquamarine','lightblue']);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
